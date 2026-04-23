@@ -154,7 +154,7 @@
         <mxCell id="PmVKIqPYQMEkCnkBtv2y-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="PmVKIqPYQMEkCnkBtv2y-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1..n" vertex="1">
+        <mxCell id="PmVKIqPYQMEkCnkBtv2y-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="630" as="geometry" />
         </mxCell>
         <mxCell id="PmVKIqPYQMEkCnkBtv2y-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
@@ -187,7 +187,7 @@
         <mxCell id="PmVKIqPYQMEkCnkBtv2y-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
           <mxGeometry height="30" width="60" x="310" y="665" as="geometry" />
         </mxCell>
-        <mxCell id="PmVKIqPYQMEkCnkBtv2y-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1..n" vertex="1">
+        <mxCell id="PmVKIqPYQMEkCnkBtv2y-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n" vertex="1">
           <mxGeometry height="30" width="60" x="210" y="665" as="geometry" />
         </mxCell>
         <mxCell id="PmVKIqPYQMEkCnkBtv2y-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
