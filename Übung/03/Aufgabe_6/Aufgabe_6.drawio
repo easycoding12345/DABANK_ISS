@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="TBSK4sIoQ5Z1CEQBqmAU">
-    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HYqrAHIznviZp14bcGzk-1" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;" value="" vertex="1">
-          <mxGeometry height="495" width="500" x="140" y="130" as="geometry" />
+          <mxGeometry height="586" width="500" x="140" y="130" as="geometry" />
         </mxCell>
         <mxCell id="HYqrAHIznviZp14bcGzk-2" parent="HYqrAHIznviZp14bcGzk-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" value="" vertex="1">
           <mxGeometry height="40" width="500" as="geometry" />
@@ -41,8 +41,8 @@
             <mxRectangle height="91" width="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYqrAHIznviZp14bcGzk-10" parent="HYqrAHIznviZp14bcGzk-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=4;colspan=1;" value="Kontoinformationen gehören zum Kunden und nicht zur Bank" vertex="1">
-          <mxGeometry height="364" width="250" x="250" as="geometry">
+        <mxCell id="HYqrAHIznviZp14bcGzk-10" parent="HYqrAHIznviZp14bcGzk-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rowspan=5;colspan=1;" value="Kontoinformationen gehören zum Kunden und nicht zur Bank" vertex="1">
+          <mxGeometry height="455" width="250" x="250" as="geometry">
             <mxRectangle height="91" width="250" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -81,6 +81,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYqrAHIznviZp14bcGzk-19" parent="HYqrAHIznviZp14bcGzk-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
+          <mxGeometry height="91" width="250" x="250" as="geometry">
+            <mxRectangle height="91" width="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCgZCGlrZ1HoXC33htlq-1" parent="HYqrAHIznviZp14bcGzk-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;" vertex="1">
+          <mxGeometry height="91" width="500" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="gCgZCGlrZ1HoXC33htlq-2" parent="gCgZCGlrZ1HoXC33htlq-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" value="Durch die Redundanz von Kundeninformationen bleiben Informationen nicht mehr Atomar" vertex="1">
+          <mxGeometry height="91" width="250" as="geometry">
+            <mxRectangle height="91" width="250" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCgZCGlrZ1HoXC33htlq-3" parent="gCgZCGlrZ1HoXC33htlq-1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" visible="0">
           <mxGeometry height="91" width="250" x="250" as="geometry">
             <mxRectangle height="91" width="250" as="alternateBounds" />
           </mxGeometry>
